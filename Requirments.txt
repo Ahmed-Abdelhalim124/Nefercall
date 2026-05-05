@@ -1,0 +1,27 @@
+# Dataset & Data Processing
+datasets
+
+# Numerical Computing
+numpy
+
+# Semantic Search & Embeddings
+sentence-transformers
+
+# Vector Search
+faiss-cpu
+
+# LLM & Speech Recognition API
+groq
+
+# Web Framework & Server
+fastapi
+uvicorn
+
+# Real-time Communication
+websockets
+
+# Session & Cache Management
+redis
+
+# Text-to-Speech
+gtts
