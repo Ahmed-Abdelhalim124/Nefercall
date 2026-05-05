@@ -19,7 +19,7 @@ import redis
 
 warnings.filterwarnings('ignore')
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = ""
 HOST = "localhost"
 PORT = 8000
 REDIS_HOST = "localhost"
