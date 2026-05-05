@@ -1,6 +1,7 @@
 #  Nefercall 
 
 A bilingual (English/Arabic) voice-enabled banking customer service agent powered by Retrieval-Augmented Generation (RAG), featuring real-time speech recognition, natural language understanding, and text-to-speech capabilities.
+## DEMO LINK : https://drive.google.com/drive/folders/18MaXuYz1ztVcvVrubL4iz86QS-43FrIT?usp=sharing
 
 ##  Key Features
 
